@@ -2,7 +2,7 @@
 	path = DINO_DETR
 	url = ./DINO_DETR/
 [submodule "Deformable-DETR"]
-	path = Deformable-DETR
+	path = DeformableDETR
 	url = ./Deformable-DETR/
 [submodule "SeaDronesSee"]
 	path = SeaDronesSee
